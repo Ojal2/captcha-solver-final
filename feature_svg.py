@@ -1,0 +1,1 @@
+print('Handling SVG images now!')
